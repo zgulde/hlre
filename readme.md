@@ -2,6 +2,8 @@
 
 Interactively **h**igh**l**ight **re**gular expression matches.
 
+![](demo.gif)
+
 ## What?
 
 A TUI application that shows the matches of a (python-flavored) regular
